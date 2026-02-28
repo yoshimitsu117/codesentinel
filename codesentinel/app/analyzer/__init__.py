@@ -1,0 +1,1 @@
+"""CodeSentinel — Analyzer package."""
